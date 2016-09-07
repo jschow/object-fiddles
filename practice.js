@@ -1,4 +1,4 @@
-//Once you complete a problem, open up Chrome and check the answer in the console.
+//Once you complete a problem, open up Chrome and check the answer in the console!
 
 
 //Create an object called me. Give it a key of name with the value being your name, and another key of age with the value being your age. Then alert your name using dot notation.
